@@ -34,7 +34,7 @@
 
 
 ## Recent Blog Posts  
-[CSDN：【一】从零开始复现实时三维重建KinectFusion](https://blog.csdn.net/LiQuKanNaShiYu/article/details/125016578?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22125016578%22%2C%22source%22%3A%22LiQuKanNaShiYu%22%7D&ctrtid=QwPJB)
-[B站：三维重建各方法对比](https://www.bilibili.com/video/BV1gF41157u8#reply115165457232)
-[fastfusion_remake 修复版本](https://github.com/sky3139/fastfusion_remake)
-[重写KinectFusion](https://github.com/sky3139/KinectFusion_2022)
+[CSDN：【一】从零开始复现实时三维重建KinectFusion](https://blog.csdn.net/LiQuKanNaShiYu/article/details/125016578?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22125016578%22%2C%22source%22%3A%22LiQuKanNaShiYu%22%7D&ctrtid=QwPJB) <br/>  
+[B站：三维重建各方法对比](https://www.bilibili.com/video/BV1gF41157u8#reply115165457232) <br/>  
+[fastfusion_remake 修复版本](https://github.com/sky3139/fastfusion_remake) <br/>  
+[重写KinectFusion](https://github.com/sky3139/KinectFusion_2022) <br/>  
