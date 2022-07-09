@@ -39,4 +39,5 @@
 [fastfusion_remake 修复版本](https://github.com/sky3139/fastfusion_remake) <br/>  
 [重写KinectFusion](https://github.com/sky3139/KinectFusion_2022) <br/>  
 ## Recent CODE   
-[GPU版本PMF算法](https://github.com/sky3139/cudaPMF) <br/>  
+[【GPU版本PMF算法 2022.7.9】](https://github.com/sky3139/cudaPMF) <br/>  
+[【点云对比工具 2022.7.9】](https://github.com/sky3139/MGFusion) <br/>  
